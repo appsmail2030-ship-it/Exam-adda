@@ -1,0 +1,7 @@
+{
+  "name": "Rajasthan Exam Master",
+  "description": "Rajasthan Government Competitive Exam Preparation Platform (Hindi-First) for Teacher Recruitment, REET, CET, Police, Patwari, and State Exams with Question Bank, Timed Tests, PYQs, and Admin Portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
